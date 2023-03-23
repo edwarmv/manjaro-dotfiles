@@ -13,3 +13,5 @@
 	name = Edwar Martinez Vale
 [init]
 	defaultBranch = main
+[http]
+	postBuffer = 157286400
