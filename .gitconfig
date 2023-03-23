@@ -1,0 +1,13 @@
+[credential]
+	helper = /home/edwarmv/.dotnet/tools/git-credential-manager
+	bitbucketAuthModes = oauth,basic
+	credentialStore = secretservice
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+[credential "https://bitbucket.ekupd.com"]
+	provider = bitbucket
+[include]
+	path = /home/edwarmv/.config/gitalias/gitalias.txt
+[user]
+	email = edwar.martinez@bupunku.com
+	name = Edwar Martinez Vale

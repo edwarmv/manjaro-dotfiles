@@ -1,0 +1,9 @@
+git:
+  autoFetch: false
+gui:
+  showIcons: true
+  theme:
+    selectedLineBgColor:
+      - underline
+    selectedRangeBgColor:
+      - reverse
