@@ -11,3 +11,5 @@
 [user]
 	email = edwar.martinez@bupunku.com
 	name = Edwar Martinez Vale
+[init]
+	defaultBranch = main
